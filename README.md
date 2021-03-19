@@ -8,7 +8,7 @@ This project is for CS129 and CS230. I intend to use the Sunfounder mini car kit
 - Google Coral USB TPU (possible contigent upon suppliers)
 ![alt text](https://github.com/joe-loy/rpiCarAutopilot/blob/main/project_bom_image.png)
 ## Setup
-TODO
+In order to train the Berkeley Deep Drive dataset, one should clone the darknet YOLOv3 source code from pjreddie and follow the process done [here](https://github.com/yogeshgajjar/BDD100k-YOLOV3-tiny) to organize and prepare the dataset for training. 
 
 ## Dataset
 This project uses the Berkeley Deep Driving dataset in order to train the object detection system of the car. 
